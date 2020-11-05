@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\VariablesAndDataTypes\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.genruntimeconfig.cache
