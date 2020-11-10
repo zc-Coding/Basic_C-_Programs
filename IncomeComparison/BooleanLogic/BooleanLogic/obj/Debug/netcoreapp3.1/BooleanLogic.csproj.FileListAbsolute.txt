@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.genruntimeconfig.cache
