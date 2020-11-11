@@ -36,13 +36,7 @@ class Program
         
 
 
-        //int[] numArray2 = { 5, 2, 10, 20, 200 };
-
-
-
-
-
-
+        //Notes from the videos
 
         //List<int> intList = new List<int>();
         //intList.Add(4);
@@ -62,6 +56,7 @@ class Program
         //int[] numArray1 = new int[] { 5, 12, 354, 678, 333 };
 
 
+        //int[] numArray2 = { 5, 2, 10, 20, 200 };
         //numArray2[0] = 2;
         //Console.WriteLine(numArray2[0]);
     }
