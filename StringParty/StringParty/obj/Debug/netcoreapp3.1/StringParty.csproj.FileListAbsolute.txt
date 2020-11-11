@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\bin\Debug\netcoreapp3.1\StringParty.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\bin\Debug\netcoreapp3.1\StringParty.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\bin\Debug\netcoreapp3.1\StringParty.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\bin\Debug\netcoreapp3.1\StringParty.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\bin\Debug\netcoreapp3.1\StringParty.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\bin\Debug\netcoreapp3.1\StringParty.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\obj\Debug\netcoreapp3.1\StringParty.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\obj\Debug\netcoreapp3.1\StringParty.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\obj\Debug\netcoreapp3.1\StringParty.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\obj\Debug\netcoreapp3.1\StringParty.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\obj\Debug\netcoreapp3.1\StringParty.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\obj\Debug\netcoreapp3.1\StringParty.genruntimeconfig.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StringParty\StringParty\obj\Debug\netcoreapp3.1\StringParty.csprojAssemblyReference.cache
