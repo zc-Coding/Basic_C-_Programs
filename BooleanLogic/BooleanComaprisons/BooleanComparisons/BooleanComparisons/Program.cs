@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace BooleanComparisons
 {
     class Program
     {
@@ -21,7 +21,7 @@ namespace ConsoleApp1
                 i++;
             }
             while (i < 10);
-          
         }
     }
 }
+ 
