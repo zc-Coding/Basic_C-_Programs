@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\IncomeComparison\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
+      "projectUniqueName": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
       "projectName": "BooleanLogic",
-      "projectPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\IncomeComparison\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
+      "projectPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
       "packagesPath": "C:\\Users\\zachc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\IncomeComparison\\BooleanLogic\\BooleanLogic\\obj\\",
+      "outputPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\BooleanLogic\\BooleanLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -14,7 +14,7 @@ namespace BooleanLogic
             bool DUI = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("How many speeding tickets do you have?");
             int tickets = Convert.ToInt32(Console.ReadLine());
-            bool qualified = (age >= 25 && DUI == false && tickets < 3);
+            bool qualified = (age >= 15 && !DUI && tickets < 3);
             Console.WriteLine(name + " are you qualified?\n" + qualified);
 
 
