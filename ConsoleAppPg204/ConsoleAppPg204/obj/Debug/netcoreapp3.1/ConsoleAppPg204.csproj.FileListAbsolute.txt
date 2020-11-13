@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\bin\Debug\netcoreapp3.1\ConsoleAppPg204.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\bin\Debug\netcoreapp3.1\ConsoleAppPg204.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\bin\Debug\netcoreapp3.1\ConsoleAppPg204.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\bin\Debug\netcoreapp3.1\ConsoleAppPg204.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\bin\Debug\netcoreapp3.1\ConsoleAppPg204.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\bin\Debug\netcoreapp3.1\ConsoleAppPg204.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\obj\Debug\netcoreapp3.1\ConsoleAppPg204.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\obj\Debug\netcoreapp3.1\ConsoleAppPg204.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\obj\Debug\netcoreapp3.1\ConsoleAppPg204.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\obj\Debug\netcoreapp3.1\ConsoleAppPg204.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\obj\Debug\netcoreapp3.1\ConsoleAppPg204.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\obj\Debug\netcoreapp3.1\ConsoleAppPg204.genruntimeconfig.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ConsoleAppPg204\ConsoleAppPg204\obj\Debug\netcoreapp3.1\ConsoleAppPg204.csprojAssemblyReference.cache
