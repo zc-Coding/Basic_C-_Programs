@@ -84,7 +84,6 @@ namespace ConsoleAppPg204
                     {
                         Console.WriteLine(g);
                         matched = true;
-                        break;
                     }
                 }
                 if (!matched)
@@ -94,30 +93,21 @@ namespace ConsoleAppPg204
                 }
             }
 
-            // PART 6
-            // This loop works except it return both instances of cat,
-            // and i'm not sure how to fix that
-            int p = 0;
+            //PART 6
+            List<string> pets = new List<string>();
             foreach (string pet in householdPets)
-            {
-                bool copy = householdPets[p + 1].Contains(pet);
-                if (copy == true)
+            {                             
+                if (pets.Contains(pet) == true)
                 {
                     Console.WriteLine(pet + " is already on the list");
                 }
-
+                else
+                {
+                    Console.WriteLine(pet);
+                }
+                pets.Add(pet);
             }
-                // THIS IS THE FIRST LOOP I TRIED FOR PART 6 I WOULD LIKE TO TALK ABOUT IT
-                //if (pet == householdPets[p])
-                //{
-                //    Console.WriteLine(pet + " is already on the list");
-                //    break;
-                //}
-                //else
-                //{
-                //    p++;
-                //}
-            
+
         }
     }
 }
