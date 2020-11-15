@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\bin\Debug\netcoreapp3.1\ExceptionHandaling.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\bin\Debug\netcoreapp3.1\ExceptionHandaling.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\bin\Debug\netcoreapp3.1\ExceptionHandaling.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\bin\Debug\netcoreapp3.1\ExceptionHandaling.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\bin\Debug\netcoreapp3.1\ExceptionHandaling.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\bin\Debug\netcoreapp3.1\ExceptionHandaling.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\obj\Debug\netcoreapp3.1\ExceptionHandaling.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\obj\Debug\netcoreapp3.1\ExceptionHandaling.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\obj\Debug\netcoreapp3.1\ExceptionHandaling.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\obj\Debug\netcoreapp3.1\ExceptionHandaling.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\obj\Debug\netcoreapp3.1\ExceptionHandaling.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\obj\Debug\netcoreapp3.1\ExceptionHandaling.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\ExceptionHandaling\ExceptionHandaling\obj\Debug\netcoreapp3.1\ExceptionHandaling.genruntimeconfig.cache

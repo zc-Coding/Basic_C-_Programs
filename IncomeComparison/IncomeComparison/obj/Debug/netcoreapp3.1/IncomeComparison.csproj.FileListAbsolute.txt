@@ -11,3 +11,16 @@ C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\
 C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.dll
 C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.pdb
 C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.genruntimeconfig.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.genruntimeconfig.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\IncomeComparison\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj",
+      "projectUniqueName": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj",
       "projectName": "IncomeComparison",
-      "projectPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\IncomeComparison\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj",
+      "projectPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj",
       "packagesPath": "C:\\Users\\zachc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\IncomeComparison\\IncomeComparison\\IncomeComparison\\obj\\",
+      "outputPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\IncomeComparison\\IncomeComparison\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
