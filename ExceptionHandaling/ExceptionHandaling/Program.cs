@@ -9,19 +9,20 @@ namespace ExceptionHandaling
         static void Main(string[] args)
         {
             List<int> numbers = new List<int>() {24, 677, 987, 241, 64, 73, 65222, 1354 };
-            Console.WriteLine("Please enter a number for the division machine");
-            int divisor = Convert.ToInt32(Console.ReadLine());             
             List<int> answers = new List<int> { };
             int i = 0;
+            int divisor = 0;
+            Console.WriteLine("Please enter a number for the division machine");
+            string divisorStr = Console.ReadLine();
             try
             {
+                divisor = Convert.ToInt32(divisorStr);
                 while (i < numbers.Count)
                 {
                     answers.Add(numbers[i] / divisor);
                     Console.WriteLine(answers[i]);
                     i++;
                 }
-
             }
             catch (FormatException formEx)
             {
@@ -33,8 +34,32 @@ namespace ExceptionHandaling
             }
             finally
             {
-                Console.WriteLine("try catch complete resuming program execution");
+                Console.WriteLine("try\\catch complete resuming program execution");
             }
+
+
+
+
+
+            //try
+            //{
+
+            //        while (i < numbers.Count)
+            //        {
+            //            answers.Add(numbers[i] / divisor);
+            //            Console.WriteLine(answers[i]);
+            //            i++;
+            //        }
+
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("try\\catch complete resuming program execution");
+            //}
 
 
             //try
