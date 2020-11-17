@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\Package Express.cs" Link="Package Express.cs" />
-  </ItemGroup>
-
 </Project>

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\PackageExpress\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\PackageExpress\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\PackageExpress\\PackageExpress\\PackageExpress.csproj",
+      "projectName": "PackageExpress",
+      "projectPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\PackageExpress\\PackageExpress\\PackageExpress.csproj",
       "packagesPath": "C:\\Users\\zachc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\PackageExpress\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\PackageExpress\\PackageExpress\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
