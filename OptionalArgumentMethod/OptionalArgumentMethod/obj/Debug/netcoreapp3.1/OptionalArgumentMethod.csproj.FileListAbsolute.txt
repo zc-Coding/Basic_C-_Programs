@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\bin\Debug\netcoreapp3.1\OptionalArgumentMethod.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\bin\Debug\netcoreapp3.1\OptionalArgumentMethod.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\bin\Debug\netcoreapp3.1\OptionalArgumentMethod.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\bin\Debug\netcoreapp3.1\OptionalArgumentMethod.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\bin\Debug\netcoreapp3.1\OptionalArgumentMethod.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\bin\Debug\netcoreapp3.1\OptionalArgumentMethod.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\obj\Debug\netcoreapp3.1\OptionalArgumentMethod.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\obj\Debug\netcoreapp3.1\OptionalArgumentMethod.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\obj\Debug\netcoreapp3.1\OptionalArgumentMethod.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\obj\Debug\netcoreapp3.1\OptionalArgumentMethod.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\obj\Debug\netcoreapp3.1\OptionalArgumentMethod.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\obj\Debug\netcoreapp3.1\OptionalArgumentMethod.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OptionalArgumentMethod\OptionalArgumentMethod\obj\Debug\netcoreapp3.1\OptionalArgumentMethod.genruntimeconfig.cache
