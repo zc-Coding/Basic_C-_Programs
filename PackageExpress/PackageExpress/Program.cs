@@ -1,28 +1,40 @@
 ﻿using System;
 
+
 namespace PackageExpress
 {
     class Program
     {
         static void Main(string[] args)
         {
+            int height;
+            int weight;
+            int width;
+            int length;
+            int tooBig;
             Console.WriteLine("Welcome to Package Express.\nPlease follow the instructions below.\n\n" +
                "Please enter the package weight:");
-            int weight = Convert.ToInt32(Console.ReadLine());
+            weight = Convert.ToInt32(Console.ReadLine());
+            if (weight > 50)
+            {
+                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day!");
+                Environment.Exit(1);
+            }
             Console.WriteLine("Please enter the package width:");
-            int width = Convert.ToInt32(Console.ReadLine());
+            width = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Please enter package height");
-            int height = Convert.ToInt32(Console.ReadLine());
+            height = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Please enter the package length:");
-            int length = Convert.ToInt32(Console.ReadLine());
-            int tooBig = weight + width + length;
+            length = Convert.ToInt32(Console.ReadLine());
+            tooBig = height + width + length;
+            
             if (tooBig > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express");
             }
             else
             {
-                decimal quote = Convert.ToDecimal((((height * width * length) * weight) / 100));
+                decimal quote = Convert.ToDecimal(height * width * length * weight / 100);
                 Console.WriteLine("Your estimated total for shipping this package is: $" + quote + ".00\nThank you!");
             }
             Console.ReadLine();
