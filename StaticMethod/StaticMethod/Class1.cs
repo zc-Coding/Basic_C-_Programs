@@ -19,10 +19,5 @@ namespace StaticMethod
             return answer;
         }
 
-        //method without parameters
-        public static string NoParameter()
-        {
-            return "No thank you I don't need any parameters";
-        }
     }
 }

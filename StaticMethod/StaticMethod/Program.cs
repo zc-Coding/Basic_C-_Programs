@@ -11,8 +11,9 @@ namespace StaticMethod
             Console.WriteLine("enter a number");
             string input = Console.ReadLine();
             mathOp.Operation(input);
-
-            Console.WriteLine(mathOp.NoParameter());
+            int i;
+            StaticClass.Adder(out i);
+            Console.WriteLine(i);
 
         }
 
