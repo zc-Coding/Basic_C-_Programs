@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\obj\Debug\netcoreapp3.1\BasicMethodsApp.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\obj\Debug\netcoreapp3.1\BasicMethodsApp.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\obj\Debug\netcoreapp3.1\BasicMethodsApp.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\obj\Debug\netcoreapp3.1\BasicMethodsApp.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\bin\Debug\netcoreapp3.1\BasicMethodsApp.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\bin\Debug\netcoreapp3.1\BasicMethodsApp.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\bin\Debug\netcoreapp3.1\BasicMethodsApp.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\bin\Debug\netcoreapp3.1\BasicMethodsApp.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\bin\Debug\netcoreapp3.1\BasicMethodsApp.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\bin\Debug\netcoreapp3.1\BasicMethodsApp.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\obj\Debug\netcoreapp3.1\BasicMethodsApp.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\obj\Debug\netcoreapp3.1\BasicMethodsApp.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\BasicMethodsApp\BasicMethodsApp\obj\Debug\netcoreapp3.1\BasicMethodsApp.genruntimeconfig.cache
