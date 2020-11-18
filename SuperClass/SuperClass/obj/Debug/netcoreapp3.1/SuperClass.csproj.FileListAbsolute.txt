@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\bin\Debug\netcoreapp3.1\SuperClass.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\bin\Debug\netcoreapp3.1\SuperClass.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\bin\Debug\netcoreapp3.1\SuperClass.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\bin\Debug\netcoreapp3.1\SuperClass.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\bin\Debug\netcoreapp3.1\SuperClass.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\bin\Debug\netcoreapp3.1\SuperClass.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\obj\Debug\netcoreapp3.1\SuperClass.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\obj\Debug\netcoreapp3.1\SuperClass.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\obj\Debug\netcoreapp3.1\SuperClass.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\obj\Debug\netcoreapp3.1\SuperClass.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\obj\Debug\netcoreapp3.1\SuperClass.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\obj\Debug\netcoreapp3.1\SuperClass.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\SuperClass\SuperClass\obj\Debug\netcoreapp3.1\SuperClass.genruntimeconfig.cache
