@@ -10,6 +10,9 @@ namespace SuperClass
             empSamp.FirstName = "Sample";
             empSamp.LastName = "Student";
             empSamp.SayName();
+
+            Employee iQuit = new Employee();
+            iQuit.Quit();
         }
     }
 }
