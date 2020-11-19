@@ -7,9 +7,14 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Jesse", "Bill", "Zach" };
+            game.ListPlayers();
+            Console.ReadLine();
+
             Deck deck = new Deck();
             deck.Shuffle(3);
-            
+
 
 
             foreach (Card card in deck.Cards)
@@ -17,10 +22,10 @@ namespace TwentyOne
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
-            
+
         }
 
-        
+
 
         //public static Deck Shuffle(Deck deck, int times)
         //{
@@ -29,6 +34,6 @@ namespace TwentyOne
         //        deck = Shuffle(deck);
         //    }
         //    return deck;
-        
+
     }
 }
