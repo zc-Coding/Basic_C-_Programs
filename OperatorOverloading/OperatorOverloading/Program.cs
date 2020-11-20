@@ -9,9 +9,10 @@ namespace OperatorOverloading
     {
         static void Main(string[] args)
         {
-            List<Employee> Employees = new Employee();
-            Employees.Add(1, "Josh");
+            Employee Zach = new Employee() { ID = 1, FName = "Zach" };
+            Employee Mark = new Employee() { ID = 2, FName = "Mark" };
 
+            Console.WriteLine(Zach == Mark);
         }
     }
 }
