@@ -1,0 +1,4 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.csproj.CoreCompileInputs.cache
