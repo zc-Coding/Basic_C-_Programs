@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.1\GenericsAssignment.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.1\GenericsAssignment.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.1\GenericsAssignment.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.1\GenericsAssignment.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.1\GenericsAssignment.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.1\GenericsAssignment.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.1\GenericsAssignment.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.1\GenericsAssignment.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.1\GenericsAssignment.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.1\GenericsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.1\GenericsAssignment.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.1\GenericsAssignment.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.1\GenericsAssignment.genruntimeconfig.cache
