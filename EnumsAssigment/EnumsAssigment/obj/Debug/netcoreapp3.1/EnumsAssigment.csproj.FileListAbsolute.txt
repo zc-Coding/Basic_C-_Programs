@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\bin\Debug\netcoreapp3.1\EnumsAssigment.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\bin\Debug\netcoreapp3.1\EnumsAssigment.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\bin\Debug\netcoreapp3.1\EnumsAssigment.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\bin\Debug\netcoreapp3.1\EnumsAssigment.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\bin\Debug\netcoreapp3.1\EnumsAssigment.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\bin\Debug\netcoreapp3.1\EnumsAssigment.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\obj\Debug\netcoreapp3.1\EnumsAssigment.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\obj\Debug\netcoreapp3.1\EnumsAssigment.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\obj\Debug\netcoreapp3.1\EnumsAssigment.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\obj\Debug\netcoreapp3.1\EnumsAssigment.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\obj\Debug\netcoreapp3.1\EnumsAssigment.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\obj\Debug\netcoreapp3.1\EnumsAssigment.genruntimeconfig.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\EnumsAssigment\EnumsAssigment\obj\Debug\netcoreapp3.1\EnumsAssigment.csprojAssemblyReference.cache
