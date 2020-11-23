@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\obj\Debug\netcoreapp3.1\StuctAssignment.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\obj\Debug\netcoreapp3.1\StuctAssignment.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\obj\Debug\netcoreapp3.1\StuctAssignment.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\obj\Debug\netcoreapp3.1\StuctAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\bin\Debug\netcoreapp3.1\StuctAssignment.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\bin\Debug\netcoreapp3.1\StuctAssignment.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\bin\Debug\netcoreapp3.1\StuctAssignment.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\bin\Debug\netcoreapp3.1\StuctAssignment.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\bin\Debug\netcoreapp3.1\StuctAssignment.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\bin\Debug\netcoreapp3.1\StuctAssignment.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\obj\Debug\netcoreapp3.1\StuctAssignment.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\obj\Debug\netcoreapp3.1\StuctAssignment.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\StuctAssignment\StuctAssignment\obj\Debug\netcoreapp3.1\StuctAssignment.genruntimeconfig.cache
