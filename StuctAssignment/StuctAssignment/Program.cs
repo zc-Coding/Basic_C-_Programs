@@ -8,7 +8,7 @@ namespace StuctAssignment
         {
             Number i;
             i.Amount = 3.63354m;
-            Console.WriteLine(i);
+            Console.WriteLine(i.Amount);
         }
     }
 }
