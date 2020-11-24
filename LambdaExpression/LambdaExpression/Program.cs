@@ -32,6 +32,8 @@ namespace LambdaExpression
                 }
             }
 
+            List<Employee> lambJoe = list.FindAll(x => x.Fname == "Joe");
+
             List<Employee> LambdaExp = list.FindAll(x => x.ID > 5);
         }
     }
