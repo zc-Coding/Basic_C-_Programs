@@ -1,0 +1,12 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\bin\Debug\netcoreapp3.1\LogExercise.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\bin\Debug\netcoreapp3.1\LogExercise.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\bin\Debug\netcoreapp3.1\LogExercise.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\bin\Debug\netcoreapp3.1\LogExercise.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\bin\Debug\netcoreapp3.1\LogExercise.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\bin\Debug\netcoreapp3.1\LogExercise.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\obj\Debug\netcoreapp3.1\LogExercise.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\obj\Debug\netcoreapp3.1\LogExercise.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\obj\Debug\netcoreapp3.1\LogExercise.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\obj\Debug\netcoreapp3.1\LogExercise.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\obj\Debug\netcoreapp3.1\LogExercise.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\LogExercise\LogExercise\obj\Debug\netcoreapp3.1\LogExercise.genruntimeconfig.cache
