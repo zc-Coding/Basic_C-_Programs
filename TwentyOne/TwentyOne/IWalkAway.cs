@@ -4,8 +4,8 @@ using System.Text;
 
 namespace TwentyOne
 {
-    //interface IWalkAway
-    //{
-    //    void WalkAway(Player player);
-    //}
+    interface IWalkAway
+    {
+        void WalkAway(Player player);
+    }
 }
