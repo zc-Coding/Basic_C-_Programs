@@ -11,3 +11,6 @@ C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\TwentyO
 C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
 C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
 C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CopyComplete

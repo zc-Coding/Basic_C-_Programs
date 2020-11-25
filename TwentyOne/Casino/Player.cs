@@ -2,10 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Player
-    {
+    {     
+        public Player(string name) : this(name, 1000)
+        {
+        }
         public Player(string name, int begginingBalance)
         {
             Hand = new List<Card>();
@@ -18,7 +21,7 @@ namespace TwentyOne
         public string Name { get; set; }
         public bool IsActivelyPlaying { get; set; }
         public bool Stay { get; set; }
-
+        public Guid ID { get; set; }
         public bool Bet(int amount)
         {
             if (Balance - amount < 0)

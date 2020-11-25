@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Casino">
+      <HintPath>..\Casino\obj\Debug\Casino.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
