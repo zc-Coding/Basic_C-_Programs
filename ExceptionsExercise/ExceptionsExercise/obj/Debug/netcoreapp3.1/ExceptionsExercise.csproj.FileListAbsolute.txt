@@ -1,0 +1,12 @@
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\bin\Debug\netcoreapp3.1\ExceptionsExercise.exe
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\bin\Debug\netcoreapp3.1\ExceptionsExercise.deps.json
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\bin\Debug\netcoreapp3.1\ExceptionsExercise.runtimeconfig.json
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\bin\Debug\netcoreapp3.1\ExceptionsExercise.runtimeconfig.dev.json
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\bin\Debug\netcoreapp3.1\ExceptionsExercise.dll
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\bin\Debug\netcoreapp3.1\ExceptionsExercise.pdb
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\obj\Debug\netcoreapp3.1\ExceptionsExercise.AssemblyInfoInputs.cache
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\obj\Debug\netcoreapp3.1\ExceptionsExercise.AssemblyInfo.cs
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\obj\Debug\netcoreapp3.1\ExceptionsExercise.csproj.CoreCompileInputs.cache
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\obj\Debug\netcoreapp3.1\ExceptionsExercise.dll
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\obj\Debug\netcoreapp3.1\ExceptionsExercise.pdb
+C:\Users\zachc\source\repos\ExceptionsExercise\ExceptionsExercise\obj\Debug\netcoreapp3.1\ExceptionsExercise.genruntimeconfig.cache
