@@ -1,0 +1,13 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\bin\Debug\netcoreapp3.1\DateTimeExercise.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\bin\Debug\netcoreapp3.1\DateTimeExercise.deps.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\bin\Debug\netcoreapp3.1\DateTimeExercise.runtimeconfig.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\bin\Debug\netcoreapp3.1\DateTimeExercise.runtimeconfig.dev.json
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\bin\Debug\netcoreapp3.1\DateTimeExercise.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\bin\Debug\netcoreapp3.1\DateTimeExercise.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\obj\Debug\netcoreapp3.1\DateTimeExercise.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\obj\Debug\netcoreapp3.1\DateTimeExercise.AssemblyInfoInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\obj\Debug\netcoreapp3.1\DateTimeExercise.AssemblyInfo.cs
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\obj\Debug\netcoreapp3.1\DateTimeExercise.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\obj\Debug\netcoreapp3.1\DateTimeExercise.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\obj\Debug\netcoreapp3.1\DateTimeExercise.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\DateTimeExercise\DateTimeExercise\obj\Debug\netcoreapp3.1\DateTimeExercise.genruntimeconfig.cache
