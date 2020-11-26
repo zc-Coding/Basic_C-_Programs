@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zachc\\source\\repos\\ExceptionsExercise\\ExceptionsExercise\\ExceptionsExercise.csproj": {}
+    "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\ExceptionsExercise\\ExceptionsExercise\\ExceptionsExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zachc\\source\\repos\\ExceptionsExercise\\ExceptionsExercise\\ExceptionsExercise.csproj": {
+    "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\ExceptionsExercise\\ExceptionsExercise\\ExceptionsExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zachc\\source\\repos\\ExceptionsExercise\\ExceptionsExercise\\ExceptionsExercise.csproj",
+        "projectUniqueName": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\ExceptionsExercise\\ExceptionsExercise\\ExceptionsExercise.csproj",
         "projectName": "ExceptionsExercise",
-        "projectPath": "C:\\Users\\zachc\\source\\repos\\ExceptionsExercise\\ExceptionsExercise\\ExceptionsExercise.csproj",
+        "projectPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\ExceptionsExercise\\ExceptionsExercise\\ExceptionsExercise.csproj",
         "packagesPath": "C:\\Users\\zachc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zachc\\source\\repos\\ExceptionsExercise\\ExceptionsExercise\\obj\\",
+        "outputPath": "C:\\Users\\zachc\\Documents\\TechAcademy\\C# .NET\\Basic_C#_Programs\\ExceptionsExercise\\ExceptionsExercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

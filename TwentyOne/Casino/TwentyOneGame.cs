@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Data;
 
 
 namespace Casino.TwentyOne
@@ -34,7 +35,7 @@ namespace Casino.TwentyOne
                 }
                 if (bet < 0)
                 {
-                    throw new FraudException();
+                    throw new FraudException("Security has been called please stay where you are to avoid severe injury");
                 }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)

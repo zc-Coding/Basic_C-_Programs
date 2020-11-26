@@ -4,3 +4,6 @@ C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\Casino\
 C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\Casino\bin\Debug\Casino.pdb
 C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.dll
 C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\Casino\bin\Debug\System.Data.SqlClient.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\Casino\bin\Debug\System.Data.SqlClient.xml
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.csproj.CopyComplete
