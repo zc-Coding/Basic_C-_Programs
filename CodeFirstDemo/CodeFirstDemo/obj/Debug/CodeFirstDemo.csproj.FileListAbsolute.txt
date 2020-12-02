@@ -1,0 +1,12 @@
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojAssemblyReference.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CopyComplete
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+C:\Users\zachc\Documents\TechAcademy\C# .NET\Basic_C#_Programs\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
