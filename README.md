@@ -5,8 +5,8 @@ They are from exercises I did at The Tech Academy bootcamp. They are names after
 #### TwentyOne:
 This is a C# counsole app made in the MVC model style. It has logic to play a twenty one game casino style including placing bets,
 and removing cheaters if certain exceptions are thrown. The classes and logic are set-up to add more games using the game and player controllers.
-There is also data logging attached to the program that records players with a special indentity code, datetime and what card was dealt.
+There is also data logging attached to the program that records players with a special indentity code, datetime and what card was delt.
 
 #### PackageExpress:
-This is a cnosole with some basic math logic applied to a users input. it takes in package size and weight and return a quote or a message,
-that the packaged cannot be shipped by this company.
+This is a console with some basic math logic applied to a users input. it takes in package size and weight and returns a quote or a message,
+that the package cannot be shipped by this company.
