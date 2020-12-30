@@ -22,7 +22,7 @@ namespace Casino.TwentyOne
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
-            
+            //logic to make sure that player can bet and isn't cheating the system by entering a negative value to return a positive when you lose the hand
             foreach(Player player in Players)
             {
                 bool validAnswer = false;
@@ -44,6 +44,7 @@ namespace Casino.TwentyOne
                 }
                 Bets[player] = bet;
             }
+            // Start dealing after the bet has been placed
             for (int i = 0; i < 2; i++)
             {
                 Console.WriteLine("Dealing...");
@@ -62,6 +63,7 @@ namespace Casino.TwentyOne
                         }
                     }
                 }
+                // Checks for a lose if dealer has blackjack
                 Console.Write("Dealer: ");
                 Dealer.Deal(Dealer.Hand);
                 if (i == 1)
@@ -78,6 +80,7 @@ namespace Casino.TwentyOne
                     }
                 }
             }
+            //The hit or stay round for each player in the game
             foreach (Player player in Players)
             {
                 while (!player.Stay)
@@ -116,6 +119,7 @@ namespace Casino.TwentyOne
                     }
                 }
             }
+            // Checks dealer hand for loses and then moves through the hit or stay round for them
             Dealer.IsBusted = TwentyOneRules.IsBusted(Dealer.Hand);
             Dealer.Stay = TwentyOneRules.ShouldDealerStay(Dealer.Hand);
             while (!Dealer.Stay && !Dealer.IsBusted)
@@ -140,9 +144,10 @@ namespace Casino.TwentyOne
                 }
                 return;
             }
+            // Checks outcome of round and asks if you'd like to play again
             foreach (Player player in Players)
             {
-                string answer = ""; // added myself the original code would stay with a value yes if that was you answer so I had it reset every loop
+                string answer = ""; // line added to stop the rematch answer getting stuck on yes and never being able to stop
                 bool? playerWon = TwentyOneRules.CompareHands(player.Hand, Dealer.Hand);
                 if (playerWon == null)
                 {
